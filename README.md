@@ -12,10 +12,7 @@ In this project, I explored how Machine Learning can enhance cybersecurity by de
 
 ✅ Built and compared multiple supervised learning models:
 
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Decision Tree
-* Random Forest
+
 * Support Vector Machine (SVM)
 
 ✅ Explored unsupervised anomaly detection techniques for identifying suspicious network behavior without relying on labels.
